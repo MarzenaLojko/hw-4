@@ -552,6 +552,7 @@ header {
   color: #fff;
 }
 
+
 /* ikonki */
 
 .header-contact-li .icon {
@@ -566,7 +567,7 @@ header {
 
 .header-contact-li .smartphone {
   width: 10px;
-  height: 36px;
+  height: 17px;
 }
 
 .team-icons-ul {
